@@ -3,3 +3,5 @@ This is the first Browser version of LTC-TMS v1.1.
 2. After making the config.js, please check all the pathing for all files such as the config.js, (code).js and the css file in each of the HTML page.
 3. To set up the cloud browser server please check out the "firebase hosting" tutorial. 
 4. Before doing all the above, please make sure you understand how to use the firebase. 
+
+This was editted by Andrew Reichard on 12/4/18 at 9:10pm...
